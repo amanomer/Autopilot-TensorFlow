@@ -16,3 +16,6 @@ Use `python run.py` to run the model on a live webcam feed
 Use `python run_dataset.py` to run the model on the dataset
 
 To visualize training using Tensorboard use `tensorboard --logdir=./logs`, then open http://0.0.0.0:6006/ into your web browser.
+
+[Output](https://github.com/user-attachments/assets/559cbba1-a091-4431-aaf0-36be8fb85bb3)
+
